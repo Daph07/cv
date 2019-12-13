@@ -1,0 +1,35 @@
+# Curriculum Vitae | Daphnée DUPORTAL
+Daphnée DUPORTAL
+v1.0, 2019-12-13
+:icons: font
+:email: daphnee.duportal@gmail.com
+:sectlinks:
+:imagesdir: ./images/
+:data-uri:
+
+====
+This Curriculum Vitae is available:
+
+* In HTML format for web browsers at link:{cv-url}[window="_blank"]
+* In PDF format for offline reading or printing, at link:{cv-url}/cv-{short-owner-name}.pdf[window="_blank"]
+
+* The source code is also available at link:{source-url}[window="_blank"] +
+(if you want to use it for yourself, or if you are curious about the methodology).
+====
+
+## icon:user[] Personal
+
+Whoami:: Daphnée DUPORTAL - icon:birthday-cake[] `07/07/1994`
+
+Contact & Social:: link:mailto:{email}[icon:envelope[] E-Mail `{email}`]
+  | link:https://github.com/Daph07[icon:github[] Github `Daph07`,window="_blank"]
+  | link:https://fr.linkedin.com/in/daphn%C3%A9e-duportal-60780b195[icon:linkedin[] Linkedin Profile,window="_blank"]
+
+Location:: icon:map-marker[] `3 rue des Saules, 35510 Cesson-Sévigné, France` image:fr.png[width=15]
+
+Phone icon:phone[]::
+
+* image:fr.png[width=15] `+33(0)6 87 97 47 33`
+
+## icon:industry[] Professional Experience
+
