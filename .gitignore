@@ -1,0 +1,9 @@
+*.swp
+*.swo
+*gz
+.DS_Store
+*.zip
+*.gz
+deploy/
+dist/
+tmp/
