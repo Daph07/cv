@@ -8,7 +8,7 @@ v1.0, 2019-12-13
 :data-uri:
 
 ====
-This Curriculum Vitae is available:
+This Curriculum Vitae is available :
 
 * In HTML format for web browsers at link:{cv-url}[window="_blank"]
 * In PDF format for offline reading or printing, at link:{cv-url}/cv-{short-owner-name}.pdf[window="_blank"]
@@ -38,17 +38,17 @@ From 03/2018 until 12/2018
 Description :
   | Gestion et traitement de dossier judiciares.
 
-### Service Civique for Tribunal de Grande Instance à Coutances
+### Service Civique for Tribunal de Grande Instance in Coutances
 From 09/2017 until 02/2018
 Description:
   |Gestion et traitement de dossier judiciaire.
 
-### Diffuseuse de flyers pour l'agence Com&Go
+### Diffuseuse de flyers for Agence Com&Go
 10/2016
 Descripton:
   |Distribution de flyers.
 
-### Auxiliaire d'accueil pour Le Crédit Lyonnais (LCL)
+### Auxiliaire d'accueil for Le Crédit Lyonnais (LCL)
 From 2012 until 2015 during french school holidays.
 Descritpion:
   * Accueil de la clientèle.
