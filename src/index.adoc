@@ -71,8 +71,8 @@ Option Political and Social Sciences.
 ## icon:industry[] Skills
 
 ### Languages
-  * Français : native
-  * English : intermediary
+  * image:fr.png[width=15] French: native
+  * image:uk.png[width=15] English : intermediary
   * German: beginner
   * Chinese (Mandarin): beginner
 
