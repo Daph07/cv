@@ -8,7 +8,7 @@ v1.0, 2019-12-13
 :data-uri:
 
 ====
-This Curriculum Vitae is available:
+This Curriculum Vitae is available :
 
 * In HTML format for web browsers at link:{cv-url}[window="_blank"]
 * In PDF format for offline reading or printing, at link:{cv-url}/cv-{short-owner-name}.pdf[window="_blank"]
@@ -33,50 +33,50 @@ Phone icon:phone[]::
 
 ## icon:industry[] Professional Experience
 
-### Vacataire for Tribunal de Grande Instance à Coutances
+### Vacataire for Tribunal de Grande Instance in Coutances
 From 03/2018 until 12/2018
 Description :
-  | Gestion et traitement de dossier judiciares.
+  |Management and processing of judicial files.
 
-### Service Civique for Tribunal de Grande Instance à Coutances
+### Service Civique for Tribunal de Grande Instance in Coutances
 From 09/2017 until 02/2018
 Description:
-  |Gestion et traitement de dossier judiciaire.
+  |Management and processing of judicial files.
 
-### Diffuseuse de flyers pour l'agence Com&Go
+### Flyer diffuser for Com&Go Agency.
 10/2016
 Descripton:
-  |Distribution de flyers.
+  |Distribution of flyers.
 
-### Auxiliaire d'accueil pour Le Crédit Lyonnais (LCL)
+### Host Auxiliary for Le Crédit Lyonnais (LCL)
 From 2012 until 2015 during french school holidays.
 Descritpion:
-  * Accueil de la clientèle.
-  * vente de services et de produits.
-  * prise en charge des opérations courantes.
+  * Customer reception.
+  * Sale of services and products.
+  * Taking care of current operations.
 
 
 ## icon:industry[] Formations
 ### Devolopper web Fullstack, Le Wagon
 from 10/2019 until 11/2019
 
-###First year in Art History-Anthropologie, Université Lyon 2
+###First year in Art History-Anthropologie, University Lyon 2
 2015
 
-### Baccalauréat Economique et Social, Lycée Jean Puy
+### Economic and Social Baccalaureate, Lycée Jean Puy
 2013
-Option Sciences Politiques et Sociales.
+Option Political and Social Sciences.
 
 
 ## icon:industry[] Skills
 
 ### Languages
-  * Français : native
-  * Anglais : intermédiaire
-  * Allemand : débutant
-  * Chinois : débutant
+  * image:fr.png[width=15] French: native
+  * image:uk.png[width=15] English : intermediary
+  * German: beginner
+  * Chinese (Mandarin): beginner
 
-### Compétences
+### Pratice
   * Pack office (word, excel, powerpoint)
   * HTML5 & CSS
   * Ruby
@@ -84,15 +84,15 @@ Option Sciences Politiques et Sociales.
   * Logiciels bancaires
   * Logiciels de la justice (WinCiTGI)
 
-### Savoir être
-  * Organisée
-  * Autonome
-  * Capacité d'adaptation
-  * Curieuse
+### Knowing how to be
+  * Organized
+  * Autonomous
+  * Adaptability
+  * Curious
 
 
-## icon:industry[] Centre d'intérets
-  * Voyager (USA, Chine, Egypte, Europe)
-  * Vice-présidente de l'association médiévale La Grande Fougère (reconstitution historique).
-  * Cosplayeuse.
-  * Modèle photo
+## icon:industry[] Interests
+  * Travel (USA, Chine, Egypte, Europe)
+  * Vice-President of the medieval association La Grande Fougère (historical re-enactment).
+  * Cosplayeurs.
+  * Photo Model.
